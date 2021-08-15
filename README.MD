@@ -6,3 +6,5 @@ Para deleter uma branch remota
 git push origin :nome_branch
 
 criado a partir da teste
+
+arquivo teste4.php add a partir d a branch teste4
